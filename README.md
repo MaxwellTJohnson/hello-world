@@ -1,2 +1,5 @@
 # hello-world
-Basic hello-world program
+
+Hi!
+
+I'm Max and I like computers!
